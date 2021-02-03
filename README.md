@@ -1,11 +1,6 @@
 
-Anna glass
-Matthew Riegelman
-
-# lab3
-git command practice
-<<<<<<< HEAD
-anna glass
-Kieran LaMee
-
-Vishwa
+Project Team Members:
+Anna Glass
+Matthew R
+Nathan D Do
+Ricky A
