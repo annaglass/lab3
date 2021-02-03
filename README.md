@@ -1,6 +1,6 @@
 # lab3
-git command practice
-<<<<<<< HEAD
+Project Team Members:
 anna glass
 Kieran LaMee
-Vishwa
+matthew riegelman
+nathan do
